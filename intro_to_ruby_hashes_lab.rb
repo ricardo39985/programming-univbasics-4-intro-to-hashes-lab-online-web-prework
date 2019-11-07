@@ -32,7 +32,7 @@ def read_from_hash(hash, key)
   else
     return nil
   end
-    
+
   end
 end
 
